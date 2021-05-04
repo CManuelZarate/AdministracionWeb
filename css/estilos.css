@@ -1,3 +1,6 @@
+nav , footer{
+ height: 10%;   
+}
 body{ /*Para q ocupe toda la ventana*/
     height: 100vh;
 }
